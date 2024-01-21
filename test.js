@@ -1,2 +1,1 @@
-some text
-some feature
+testing completed
